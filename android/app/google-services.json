@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186662871979",
+    "project_id": "frealtimedb-48cbf",
+    "storage_bucket": "frealtimedb-48cbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186662871979:android:4cd44ad7cf37dd5be968ee",
+        "android_client_info": {
+          "package_name": "com.inmakes.frealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186662871979-fojko464ukeg6poq9d198kvcj9m8its5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWppK2papsu-n2qinMOwEz4_te4Lqu1jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186662871979-fojko464ukeg6poq9d198kvcj9m8its5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
